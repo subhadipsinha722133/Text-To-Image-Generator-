@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+safetensors
+Pillow
+matplotlib
